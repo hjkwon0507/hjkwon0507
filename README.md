@@ -1,8 +1,8 @@
-<h1 align="center>Hi, I'm Hyejin Kwon</h1>
+<h3 align="center>Hi, I'm Hyejin Kwon</h1>
 <p  align="center>Welcome to my page!👋🏼</p>
 
 <br />
-<h2 align="center">📓Tech Stacks</h2>
+<h3 align="center">📓Tech Stacks📓</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML5-F05032?style=flat&logo=html5&logoColor=ffffff"/>
