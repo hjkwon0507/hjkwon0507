@@ -2,7 +2,7 @@
 <p align="center">Welcome to my page!👋🏼</p>
 
 <br />
-<h3 align="center">📓Tech Stacks📓</h2>
+<h3 align="center">📓Tech Stack📓</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML5-F05032?style=flat&logo=html5&logoColor=ffffff"/>
@@ -12,6 +12,7 @@
   <br />
   <img src="https://img.shields.io/badge/-React-222222?style=flat&logo=react"/>
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/-jQuery-#0769AD?style=flat&logo=jquery/>
   <br />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff"/>
 </div>
