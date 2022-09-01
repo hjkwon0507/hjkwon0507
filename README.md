@@ -1,5 +1,5 @@
-<h3 align="center>Hi, I'm Hyejin Kwon</h1>
-<p  align="center>Welcome to my page!👋🏼</p>
+<h3 align="center">Hi, I'm Hyejin Kwon</h3>
+<p align="center">Welcome to my page!👋🏼</p>
 
 <br />
 <h3 align="center">📓Tech Stacks📓</h2>
