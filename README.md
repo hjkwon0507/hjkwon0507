@@ -2,7 +2,7 @@
 <p>Welcome to my page!👋🏼</p>
 
 <br />
-<h2>Tech Stacks📓</h2>
+<h2>📓Tech Stacks</h2>
 
 <div style="text-align:center;">
   <img src="https://img.shields.io/badge/-HTML5-F05032?style=flat&logo=html5&logoColor=ffffff"/>
