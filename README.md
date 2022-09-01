@@ -10,3 +10,4 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff)
