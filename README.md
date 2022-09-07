@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm Hyejin Kwon</h3>
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=HyejinKwon&fontSize=70&animation=fadeIn)
 <p align="center">Welcome to my page!👋🏼</p>
 <br />
 <br />
