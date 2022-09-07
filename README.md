@@ -26,7 +26,7 @@
   <br />
   <p>🎂 1996.05.07</p>
   <p>🎓 Dankook University | Business Administration (bachelor)</p>
-  <p>Front-end Developer</p>
+  <p>👩🏻‍💻 Front-end Developer</p>
   <p>📍 Suwon, Korea</p>
   <p>💌 7applejink@gmail.com</p>
   <a href="https://velog.io/@hjkwon0507"><img src="https://img.shields.io/badge/-Velog-20C997?style=flat&logo=velog&logoColor=ffffff"/></a>
