@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=HyejinKwon&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=HyejinKwon&fontSize=70&animation=fadeIn)
+
 <p align="center">Welcome to my page!👋🏼</p>
 <br />
 <br />
@@ -32,3 +33,6 @@
   <a href="https://velog.io/@hjkwon0507"><img src="https://img.shields.io/badge/-Velog-20C997?style=flat&logo=velog&logoColor=ffffff"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=ffffff"/></a>
 </div>
+<br />
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer)
