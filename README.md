@@ -33,7 +33,7 @@
   <p>📍 Suwon, Korea</p>
   <p>💌 7applejink@gmail.com</p>
   <a href="https://velog.io/@hjkwon0507"><img src="https://img.shields.io/badge/-Velog-20C997?style=flat&logo=velog&logoColor=ffffff"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=ffffff"/></a>
+  <a href="https://www.instagram.com/apple__jin/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=ffffff"/></a>
 </div>
 <br />
 
