@@ -28,7 +28,7 @@
   <h3>🐿 About Me 🐿</h3>
   <br />
 <!--   <p>🎂 1996.05.07</p> -->
-  <p>🎓 Dankook University | Business Administration (bachelor)</p>
+<!--   <p>🎓 Dankook University | Business Administration (bachelor)</p> -->
   <p>👩🏻‍💻 Front-end Developer</p>
   <p>📍 Suwon, Korea</p>
   <p>💌 7applejink@gmail.com</p>
