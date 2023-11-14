@@ -6,8 +6,8 @@
 <h3 align="center">📓 Tech Stack 📓</h3>
 <br />
 <div align="center">
-  <img src="https://img.shields.io/badge/-React-222222?style=flat&logo=react"/>
   <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat"/>
+  <img src="https://img.shields.io/badge/-React-222222?style=flat&logo=react"/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>  
   <br />
