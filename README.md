@@ -34,7 +34,7 @@
   <p>👩🏻‍💻 Front-end Developer</p>
   <p>📍 Suwon, Korea</p>
   <p>💌 applejin.dev@gmail.com</p>
-  <a href="https://applejin-dev.notion.site/Hyejin-s-Resume-b1f80e106db349a4aa027f03e42a1633?pvs=4"><img src="https://img.shields.io/badge/-Notion-20C997?style=flat&logo=notion"/></a>
+  <a href="https://applejin-dev.notion.site/Hyejin-s-Resume-b1f80e106db349a4aa027f03e42a1633?pvs=4"><img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion"/></a>
   <a href="https://www.instagram.com/apple__jin/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=ffffff"/></a>
 </div>
 <br />
